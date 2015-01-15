@@ -11,6 +11,10 @@ You are now ready to insert your PayFast merchant ID and Key. Change the setting
 
 Change the 'Enable PayFast Erolments' to Yes
 
-Save your changes and go 'Enable' the PayFast Enrolment plugin from the list of available erolment plugins
+Save your changes and go to Administration > Site administration > Plugins > Enrolments > Manage enrol plugins. Click the 'enable' icon next to the the PayFast plugin from the list.
 
-In Administration>Course Administration>Users>enrolment methods go and add PayFast as an available enrolment method
+Navigate to the specific course you're interested in charging for under from Navigation > Courses 
+
+Once you're in the specific course, go to Administration > Users > Enrolment methods
+
+Add PayFast as an available method from the drop down list. Add the cost (in ZAR) for the course and click 'Add method'.
